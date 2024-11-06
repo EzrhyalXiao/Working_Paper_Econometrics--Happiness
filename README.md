@@ -13,7 +13,7 @@ This article studies the impact of income and the use of technology and social m
 ## 📊 Methodology
 - **Data Source**: General Social Survey (GSS)
 - **Framework**: RPTBXS
-- **Techniques**: Ordered logistic regression, instrumental variable, XGBOOST
+- **Techniques**: Ordered logistic regression, instrumental variable, XGBOOST, SHAP, Bayesian Optimization
 
 ## 🧑‍🔬 Research Methods
 - **Data Preprocessing**: Handling missing values with random forest in mice package and feature engineering with post-double-selection.
